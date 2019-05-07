@@ -1,0 +1,15 @@
+  {
+
+  "personID": 2,
+  "surname": "Bloggs",
+  "hairDetails": [
+    {
+      "id": 1,
+      "colour": "pink"
+    },
+    {
+      "id": 2,
+      "colour": "red"
+    }
+  ]
+}
